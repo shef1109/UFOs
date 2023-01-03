@@ -6,7 +6,7 @@ Dana is a journalist who has been given an opportunity to write about whatever s
 The purpose of this challenge is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, users will be able to add table filters for the city, state, country, and shape. 
 
 ## Results
-Using JavaScript and HTML we have created an interactive webpage that allows the reader to parse the data around UFO sightings. As we can see in Fig.1 below, the user can search the data by filtering based on: 
+Using JavaScript and HTML we have created an interactive webpage that allows the reader to filter the data around UFO sightings. As we can see in Fig.1 below, the user can search the data by filtering based on: 
 - Date 
 - City 
 - State 
